@@ -192,13 +192,11 @@ https:/qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88
 
 #### 高速な素数判定法
 
-- [ ] **68**　[NTL_1_A - 素因数分解](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja)　基本問題です。
+- [x] **68**　[NTL_1_A - 素因数分解](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja)　基本問題です。
 
-- [ ] **69**　[AtCoder Beginner Contest 084 D - 2017-like Number](https:/atcoder.jp/contests/abc084/tasks/abc084_d)
+- [x] **69**　[AtCoder Beginner Contest 084 D - 2017-like Number](https:/atcoder.jp/contests/abc084/tasks/abc084_d)
 
-- [ ] 
-
-- [ ] #### 高速なべき乗計算
+#### 高速なべき乗計算
 
 - [ ] **70**　[NTL_1_B - べき乗](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja)
 
