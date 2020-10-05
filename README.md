@@ -1,6 +1,7 @@
-https:/qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88%A5%E5%88%9D%E4%B8%AD%E7%B4%9A%E8%80%85%E3%81%8C%E8%A7%A3%E3%81%8F%E3%81%B9%E3%81%8D%E9%81%8E%E5%8E%BB%E5%95%8F%E7%B2%BE%E9%81%B8-100-%E5%95%8F
-
 ### 引用
+このReadmeは[Qiitaの記事](https:/qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88%A5%E5%88%9D%E4%B8%AD%E7%B4%9A%E8%80%85%E3%81%8C%E8%A7%A3%E3%81%8F%E3%81%B9%E3%81%8D%E9%81%8E%E5%8E%BB%E5%95%8F%E7%B2%BE%E9%81%B8-100-%E5%95%8F
+)
+からの引用です。書式に改変がありますが、本文には変更を加えていません。
 #### 全探索：全列挙
 - [x] **1**　[ITP1_7_B - How Many Ways?](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B&lang=ja)　基本問題です。
 
@@ -198,13 +199,13 @@ https:/qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88
 
 #### 高速なべき乗計算
 
-- [ ] **70**　[NTL_1_B - べき乗](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja)
+- [x] **70**　[NTL_1_B - べき乗](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja)
 
-- [ ] **71**　[Square869120Contest #1 E - 散歩](https:/atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e)
+- [x] **71**　[Square869120Contest #1 E - 散歩](https:/atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e)
 
-- [ ] ※ べき乗だけを使う問題は少ないですが、$nCr$ などを求める際に、逆元とセットで出てくることが多いです。例えば、$ax≡1 \ (mod \ p)$ の解は $a^{p-2} \ mod \ p$ となります。（$p$ が素数の場合）
+ ※ べき乗だけを使う問題は少ないですが、$nCr$ などを求める際に、逆元とセットで出てくることが多いです。例えば、$ax≡1 \ (mod \ p)$ の解は $a^{p-2} \ mod \ p$ となります。（$p$ が素数の場合）
 
-- [ ] 
+
 
 #### 逆元を使う問題
 
@@ -216,7 +217,7 @@ https:/qiita.com/e869120/items/eb50fdaece12be418faa#2-3-%E5%88%86%E9%87%8E%E5%88
 
 - [ ] **75**　[AtCoder Beginner Contest 149 F - Surrounded Nodes](https:/atcoder.jp/contests/abc149/tasks/abc149_f)　チャレンジ問題です。解けなくても、「そういう特殊な出力形式の問題ってあるんだな」と感じてほしいです。
 
-- [ ] 
+
 
 #### 累積和
 
