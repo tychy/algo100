@@ -47,7 +47,7 @@
 
 - [x] **18**　[ALDS_4_B - 二分探索](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B&lang=ja)　基本問題です。map でも解けますが二分探索で解いてみてください。
 
-- [ ] **19**　[JOI 2009 本選 2 - ピザ](https:/atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)
+- [x] **19**　[JOI 2009 本選 2 - ピザ](https:/atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)
 
 - [ ] **20**　[AtCoder Beginner Contest 077 C - Snuke Festival](https:/atcoder.jp/contests/abc077/tasks/arc084_a)　面白いです。
 
