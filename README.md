@@ -49,7 +49,7 @@
 
 - [x] **19**　[JOI 2009 本選 2 - ピザ](https:/atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)
 
-- [ ] **20**　[AtCoder Beginner Contest 077 C - Snuke Festival](https:/atcoder.jp/contests/abc077/tasks/arc084_a)　面白いです。
+- [x] **20**　[AtCoder Beginner Contest 077 C - Snuke Festival](https:/atcoder.jp/contests/abc077/tasks/arc084_a)　面白いです。
 
 - [ ] **21**　[AtCoder Beginner Contest 023 D - 射撃王](https:/atcoder.jp/contests/abc023/tasks/abc023_d)　教育的に良いです。
 
@@ -61,7 +61,7 @@
 
 - [ ] #### 深さ優先探索
 
-- [ ] **24**　[ALDS_11_B - 深さ優先探索](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B)　基本問題です。
+- [x] **24**　[ALDS_11_B - 深さ優先探索](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B)　基本問題です。
 
 - [ ] **25**　[AOJ 1160 - 島はいくつある？](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1160&lang=jp)　グラフの連結成分数は、深さ優先探索で計算できます。
 
