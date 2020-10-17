@@ -17,7 +17,7 @@
 - [x] **5**　[AtCoder Beginner Contest 095 C - Half and Half](https:/atcoder.jp/contests/abc095/tasks/arc096_a)
 
 - [x] **6**　[三井住友信託銀行プログラミングコンテスト 2019 D - Lucky PIN](https:/atcoder.jp/contests/sumitrust20
-- [ ] **7**　[JOI 2007 本選 3 - 最古の遺跡](https:/atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c)　面白いです。Python3 だと想定解法が TLE する可能性があります。（PyPy3 であれば間に合う場合が多いです）
+- [x] **7**　[JOI 2007 本選 3 - 最古の遺跡](https:/atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c)　面白いです。Python3 だと想定解法が TLE する可能性があります。（PyPy3 であれば間に合う場合が多いです）
 
 - [ ] **8**　[Square869120Contest #6 B - AtCoder Markets](https:/atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b)　全探索すると無数に通り数があるように見えますが、ひとつ工夫すると現実的な通り数で全列挙できる問題です。
 
