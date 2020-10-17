@@ -10,6 +10,14 @@ using namespace std;
 #define Graph vector<vector<int>>;
 #define iterG(next_v, G, v) for(auto next_v : G[v]
 const int MOD = 1000000007;
+void printer(vector<int> v)
+{
+    rep(i, v.size())
+    {
+        cout << v[i] << " ,";
+    }
+    cout << endl;
+}
 int main()
 {
     cin.tie(NULL);
