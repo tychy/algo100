@@ -63,7 +63,7 @@
 
 - [x] **24**　[ALDS_11_B - 深さ優先探索](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B)　基本問題です。
 
-- [ ] **25**　[AOJ 1160 - 島はいくつある？](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1160&lang=jp)　グラフの連結成分数は、深さ優先探索で計算できます。
+- [x] **25**　[AOJ 1160 - 島はいくつある？](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1160&lang=jp)　グラフの連結成分数は、深さ優先探索で計算できます。
 
 - [ ] **26**　[AtCoder Beginner Contest 138 D - Ki](https:/atcoder.jp/contests/abc138/tasks/abc138_d)　木構造の問題の多くは、深さ優先探索を使います。
 
@@ -73,7 +73,7 @@
 
 #### 幅優先探索
 
-- [ ] **28**　[ALDS_11_C - 幅優先探索](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja)　基本問題です。
+- [x] **28**　[ALDS_11_C - 幅優先探索](http:/judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja)　基本問題です。
 
 - [ ] **29**　[AtCoder Beginner Contest 007 C - 幅優先探索](https:/atcoder.jp/contests/abc007/tasks/abc007_3)　重み無しグラフの最短経路問題は、幅優先探索で解けます。
 
